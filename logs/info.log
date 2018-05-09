@@ -1,0 +1,463 @@
+19:44:34.592 [main] INFO  EntityCreator:85  - 8 Points are created
+19:44:34.619 [main] INFO  EntityCreator:85  - 4 Points are created
+19:44:34.620 [main] INFO  EntityCreator:92  - Tetragon is created
+19:44:34.620 [main] INFO  TetragonAction:118  - Selected tetragon is a rhomb
+19:44:34.621 [main] INFO  TetragonAction:141  - Selected tetragon is a square
+19:44:34.623 [main] INFO  EntityCreator:85  - 8 Points are created
+19:44:34.624 [main] INFO  EntityCreator:92  - Tetragon is created
+19:44:34.624 [main] INFO  EntityCreator:92  - Tetragon is created
+19:44:34.625 [main] INFO  TetragonAction:169  - Selected tetragon is not a trapeze
+19:44:34.626 [main] INFO  TetragonAction:165  - Selected tetragon is a trapeze
+19:44:34.628 [main] INFO  EntityCreator:85  - 4 Points are created
+19:44:34.629 [main] INFO  EntityCreator:92  - Tetragon is created
+19:44:34.630 [main] INFO  TetragonAction:165  - Selected tetragon is a trapeze
+19:49:21.211 [main] INFO  EntityCreator:85  - 3 Points are created
+19:49:38.436 [main] INFO  EntityCreator:85  - 3 Points are created
+19:50:57.982 [main] INFO  EntityCreator:85  - 3 Points are created
+19:52:43.447 [main] INFO  EntityCreator:85  - 3 Points are created
+19:53:31.558 [main] ERROR TetragonFunctionTest:124  - Not coordinates points to create a tetragon
+19:53:59.608 [main] ERROR TetragonFunctionTest:124  - Not coordinates to create a tetragon
+19:54:43.798 [main] ERROR TetragonFunctionTest:124  - Not enought coordinates to create a tetragon
+19:55:22.879 [main] INFO  EntityCreator:85  - 8 Points are created
+19:55:22.879 [main] INFO  EntityCreator:92  - Tetragon is created
+19:55:22.879 [main] INFO  EntityCreator:92  - Tetragon is created
+19:55:22.895 [main] INFO  TetragonAction:49  - Area of tetragon=78.0
+19:55:22.895 [main] INFO  TetragonAction:49  - Area of tetragon=78.0
+19:55:22.895 [main] INFO  TetragonAction:49  - Area of tetragon=4.0
+19:55:22.895 [main] INFO  TetragonAction:49  - Area of tetragon=4.0
+19:55:22.895 [main] INFO  EntityCreator:85  - 4 Points are created
+19:55:22.895 [main] INFO  EntityCreator:92  - Tetragon is created
+19:55:22.895 [main] INFO  TetragonAction:49  - Area of tetragon=4.0
+19:55:22.895 [main] INFO  EntityCreator:85  - 8 Points are created
+19:55:22.895 [main] INFO  EntityCreator:92  - Tetragon is created
+19:55:22.895 [main] INFO  EntityCreator:92  - Tetragon is created
+19:55:22.895 [main] INFO  TetragonAction:68  - Perimeter of tetragon=8.47213595499958
+19:55:22.895 [main] INFO  TetragonAction:68  - Perimeter of tetragon=37.31875803918298
+19:55:22.895 [main] FATAL TetragonFunctionTest:105  - File is empty: empty.txt
+19:55:22.895 [main] FATAL TetragonFunctionTest:89  - Empty file name
+19:55:22.910 [main] FATAL TetragonFunctionTest:73  - No file found: abc
+19:55:22.910 [main] INFO  EntityCreator:85  - 4 Points are created
+19:55:22.910 [main] INFO  EntityCreator:92  - Tetragon is created
+19:55:22.910 [main] INFO  TetragonAction:92  - Selected tetragon is not convex
+19:55:22.910 [main] ERROR TetragonFunctionTest:124  - Not enought coordinates to create a tetragon
+19:55:22.910 [main] INFO  EntityCreator:85  - 4 Points are created
+19:55:22.910 [main] INFO  EntityCreator:92  - Tetragon is created
+19:55:22.910 [main] INFO  TetragonAction:30  - Its not a tetragon
+19:55:22.910 [main] INFO  EntityCreator:85  - 8 Points are created
+19:55:22.910 [main] INFO  EntityCreator:92  - Tetragon is created
+19:55:22.926 [main] INFO  TetragonAction:49  - Area of tetragon=78.0
+19:55:22.926 [main] INFO  TetragonAction:68  - Perimeter of tetragon=37.31875803918298
+19:55:22.926 [main] INFO  TetragonAction:49  - Area of tetragon=146.0
+19:55:22.926 [main] INFO  TetragonAction:68  - Perimeter of tetragon=59.650198851930696
+19:55:22.926 [main] INFO  EntityCreator:85  - 8 Points are created
+19:55:22.926 [main] INFO  EntityCreator:92  - Tetragon is created
+19:55:22.926 [main] INFO  EntityCreator:92  - Tetragon is created
+19:55:22.926 [main] INFO  TetragonAction:68  - Perimeter of tetragon=37.31875803918298
+19:55:22.926 [main] INFO  TetragonAction:68  - Perimeter of tetragon=37.31875803918298
+19:55:22.926 [main] INFO  TetragonAction:68  - Perimeter of tetragon=8.47213595499958
+19:55:22.926 [main] INFO  TetragonAction:68  - Perimeter of tetragon=8.47213595499958
+19:55:22.926 [main] INFO  EntityCreator:85  - 4 Points are created
+19:55:22.926 [main] INFO  EntityCreator:92  - Tetragon is created
+19:55:22.926 [main] INFO  TetragonAction:68  - Perimeter of tetragon=8.47213595499958
+19:55:22.942 [main] INFO  EntityCreator:85  - 8 Points are created
+19:55:22.942 [main] INFO  EntityCreator:85  - 4 Points are created
+19:55:22.942 [main] INFO  EntityCreator:92  - Tetragon is created
+19:55:22.942 [main] INFO  TetragonAction:118  - Selected tetragon is a rhomb
+19:55:22.942 [main] INFO  TetragonAction:141  - Selected tetragon is a square
+19:55:22.942 [main] INFO  EntityCreator:85  - 8 Points are created
+19:55:22.942 [main] INFO  EntityCreator:92  - Tetragon is created
+19:55:22.942 [main] INFO  EntityCreator:92  - Tetragon is created
+19:55:22.942 [main] INFO  TetragonAction:169  - Selected tetragon is not a trapeze
+19:55:22.942 [main] INFO  TetragonAction:165  - Selected tetragon is a trapeze
+19:55:22.942 [main] INFO  EntityCreator:85  - 4 Points are created
+19:55:22.942 [main] INFO  EntityCreator:92  - Tetragon is created
+19:55:22.942 [main] INFO  TetragonAction:165  - Selected tetragon is a trapeze
+12:44:53.005 [main] INFO  EntityCreator:83  - 4 Points are created
+12:44:53.021 [main] INFO  EntityCreator:90  - Tetragon is created
+12:44:53.021 [main] INFO  TetragonAction:118  - Selected tetragon is a rhomb
+12:44:53.021 [main] INFO  TetragonAction:141  - Selected tetragon is a square
+12:54:10.261 [main] INFO  EntityCreator:83  - 8 Points are created
+12:54:10.261 [main] INFO  EntityCreator:90  - Tetragon is created
+12:54:10.261 [main] INFO  EntityCreator:90  - Tetragon is created
+12:54:10.261 [main] INFO  TetragonAction:49  - Area of tetragon=78.0
+12:54:10.261 [main] INFO  TetragonAction:49  - Area of tetragon=78.0
+12:54:10.261 [main] INFO  TetragonAction:49  - Area of tetragon=4.0
+12:54:10.261 [main] INFO  TetragonAction:49  - Area of tetragon=4.0
+12:54:10.277 [main] INFO  EntityCreator:83  - 8 Points are created
+12:54:10.277 [main] INFO  EntityCreator:90  - Tetragon is created
+12:54:10.277 [main] INFO  EntityCreator:90  - Tetragon is created
+12:54:10.277 [main] INFO  TetragonAction:68  - Perimeter of tetragon=8.47213595499958
+12:54:10.277 [main] INFO  TetragonAction:68  - Perimeter of tetragon=37.31875803918298
+12:54:10.292 [main] INFO  EntityCreator:83  - 8 Points are created
+12:54:10.292 [main] INFO  EntityCreator:90  - Tetragon is created
+12:54:10.292 [main] INFO  EntityCreator:90  - Tetragon is created
+12:54:10.292 [main] INFO  TetragonAction:68  - Perimeter of tetragon=37.31875803918298
+12:54:10.292 [main] INFO  TetragonAction:68  - Perimeter of tetragon=37.31875803918298
+12:54:10.292 [main] INFO  TetragonAction:68  - Perimeter of tetragon=8.47213595499958
+12:54:10.292 [main] INFO  TetragonAction:68  - Perimeter of tetragon=8.47213595499958
+12:54:10.308 [main] INFO  EntityCreator:83  - 8 Points are created
+12:54:10.308 [main] INFO  EntityCreator:90  - Tetragon is created
+12:54:10.308 [main] INFO  EntityCreator:90  - Tetragon is created
+12:54:10.308 [main] INFO  TetragonAction:169  - Selected tetragon is not a trapeze
+12:54:10.308 [main] INFO  TetragonAction:165  - Selected tetragon is a trapeze
+12:56:11.886 [main] INFO  EntityCreator:83  - 4 Points are created
+12:56:11.886 [main] INFO  EntityCreator:90  - Tetragon is created
+12:56:11.886 [main] INFO  TetragonAction:49  - Area of tetragon=4.0
+12:56:11.902 [main] INFO  EntityCreator:83  - 4 Points are created
+12:56:11.902 [main] INFO  EntityCreator:90  - Tetragon is created
+12:56:11.902 [main] INFO  TetragonAction:92  - Selected tetragon is not convex
+12:56:11.917 [main] INFO  EntityCreator:83  - 4 Points are created
+12:56:11.917 [main] INFO  EntityCreator:90  - Tetragon is created
+12:56:11.917 [main] INFO  TetragonAction:30  - Its not a tetragon
+12:56:11.917 [main] INFO  EntityCreator:83  - 4 Points are created
+12:56:11.917 [main] INFO  EntityCreator:90  - Tetragon is created
+12:56:11.917 [main] INFO  TetragonAction:68  - Perimeter of tetragon=8.47213595499958
+12:56:11.917 [main] INFO  EntityCreator:83  - 4 Points are created
+12:56:11.917 [main] INFO  EntityCreator:90  - Tetragon is created
+12:56:11.917 [main] INFO  TetragonAction:118  - Selected tetragon is a rhomb
+12:56:11.917 [main] INFO  TetragonAction:141  - Selected tetragon is a square
+12:56:11.917 [main] INFO  EntityCreator:83  - 4 Points are created
+12:56:11.917 [main] INFO  EntityCreator:90  - Tetragon is created
+12:56:11.917 [main] INFO  TetragonAction:165  - Selected tetragon is a trapeze
+12:56:27.705 [main] FATAL TetragonCreationTest:82  - File is empty: empty.txt
+12:56:27.720 [main] FATAL TetragonCreationTest:66  - Empty file name
+12:56:27.720 [main] FATAL TetragonCreationTest:50  - No file found: abc
+12:56:27.736 [main] ERROR TetragonCreationTest:101  - Not enought coordinates to create a tetragon
+12:56:27.736 [main] INFO  EntityCreator:83  - 8 Points are created
+12:56:39.457 [main] INFO  EntityCreator:83  - 8 Points are created
+12:56:39.457 [main] INFO  EntityCreator:90  - Tetragon is created
+12:56:39.472 [main] INFO  TetragonAction:49  - Area of tetragon=78.0
+12:56:39.472 [main] INFO  TetragonAction:68  - Perimeter of tetragon=37.31875803918298
+12:56:39.472 [main] INFO  TetragonAction:49  - Area of tetragon=146.0
+12:56:39.472 [main] INFO  TetragonAction:68  - Perimeter of tetragon=59.650198851930696
+12:56:59.241 [main] INFO  EntityCreator:83  - 8 Points are created
+12:56:59.241 [main] INFO  EntityCreator:90  - Tetragon is created
+12:56:59.241 [main] INFO  EntityCreator:90  - Tetragon is created
+12:56:59.241 [main] INFO  TetragonAction:49  - Area of tetragon=78.0
+12:56:59.241 [main] INFO  TetragonAction:49  - Area of tetragon=78.0
+12:56:59.241 [main] INFO  TetragonAction:49  - Area of tetragon=4.0
+12:56:59.241 [main] INFO  TetragonAction:49  - Area of tetragon=4.0
+12:56:59.257 [main] INFO  EntityCreator:83  - 8 Points are created
+12:56:59.257 [main] INFO  EntityCreator:90  - Tetragon is created
+12:56:59.257 [main] INFO  EntityCreator:90  - Tetragon is created
+12:56:59.257 [main] INFO  TetragonAction:68  - Perimeter of tetragon=8.47213595499958
+12:56:59.257 [main] INFO  TetragonAction:68  - Perimeter of tetragon=37.31875803918298
+12:56:59.257 [main] INFO  EntityCreator:83  - 8 Points are created
+12:56:59.257 [main] INFO  EntityCreator:90  - Tetragon is created
+12:56:59.257 [main] INFO  EntityCreator:90  - Tetragon is created
+12:56:59.257 [main] INFO  TetragonAction:68  - Perimeter of tetragon=37.31875803918298
+12:56:59.257 [main] INFO  TetragonAction:68  - Perimeter of tetragon=37.31875803918298
+12:56:59.257 [main] INFO  TetragonAction:68  - Perimeter of tetragon=8.47213595499958
+12:56:59.257 [main] INFO  TetragonAction:68  - Perimeter of tetragon=8.47213595499958
+12:56:59.273 [main] INFO  EntityCreator:83  - 8 Points are created
+12:56:59.273 [main] INFO  EntityCreator:90  - Tetragon is created
+12:56:59.273 [main] INFO  EntityCreator:90  - Tetragon is created
+12:56:59.273 [main] INFO  TetragonAction:169  - Selected tetragon is not a trapeze
+12:56:59.273 [main] INFO  TetragonAction:165  - Selected tetragon is a trapeze
+12:59:18.414 [main] INFO  EntityCreator:83  - 4 Points are created
+12:59:18.430 [main] INFO  EntityCreator:90  - Tetragon is created
+12:59:18.430 [main] INFO  TetragonAction:49  - Area of tetragon=4.0
+12:59:18.430 [main] INFO  EntityCreator:83  - 4 Points are created
+12:59:18.430 [main] INFO  EntityCreator:90  - Tetragon is created
+12:59:18.430 [main] INFO  TetragonAction:92  - Selected tetragon is not convex
+12:59:18.430 [main] INFO  EntityCreator:83  - 4 Points are created
+12:59:18.430 [main] INFO  EntityCreator:90  - Tetragon is created
+12:59:18.430 [main] INFO  TetragonAction:30  - Its not a tetragon
+12:59:18.445 [main] INFO  EntityCreator:83  - 4 Points are created
+12:59:18.445 [main] INFO  EntityCreator:90  - Tetragon is created
+12:59:18.445 [main] INFO  TetragonAction:68  - Perimeter of tetragon=8.47213595499958
+12:59:18.445 [main] INFO  EntityCreator:83  - 4 Points are created
+12:59:18.445 [main] INFO  EntityCreator:90  - Tetragon is created
+12:59:18.445 [main] INFO  TetragonAction:118  - Selected tetragon is a rhomb
+12:59:18.445 [main] INFO  TetragonAction:141  - Selected tetragon is a square
+12:59:18.445 [main] INFO  EntityCreator:83  - 4 Points are created
+12:59:18.445 [main] INFO  EntityCreator:90  - Tetragon is created
+12:59:18.445 [main] INFO  TetragonAction:165  - Selected tetragon is a trapeze
+12:59:28.564 [main] FATAL TetragonCreationTest:82  - File is empty: empty.txt
+12:59:28.579 [main] FATAL TetragonCreationTest:66  - Empty file name
+12:59:28.579 [main] FATAL TetragonCreationTest:50  - No file found: abc
+12:59:28.595 [main] ERROR TetragonCreationTest:101  - Not enought coordinates to create a tetragon
+12:59:28.611 [main] INFO  EntityCreator:83  - 8 Points are created
+12:59:33.588 [main] FATAL TetragonCreationTest:82  - File is empty: empty.txt
+12:59:33.603 [main] FATAL TetragonCreationTest:66  - Empty file name
+12:59:33.603 [main] FATAL TetragonCreationTest:50  - No file found: abc
+12:59:33.603 [main] ERROR TetragonCreationTest:101  - Not enought coordinates to create a tetragon
+12:59:33.619 [main] INFO  EntityCreator:83  - 8 Points are created
+12:59:37.313 [main] INFO  EntityCreator:83  - 8 Points are created
+12:59:37.313 [main] INFO  EntityCreator:90  - Tetragon is created
+12:59:37.313 [main] INFO  TetragonAction:49  - Area of tetragon=78.0
+12:59:37.313 [main] INFO  TetragonAction:68  - Perimeter of tetragon=37.31875803918298
+12:59:37.328 [main] INFO  TetragonAction:49  - Area of tetragon=146.0
+12:59:37.328 [main] INFO  TetragonAction:68  - Perimeter of tetragon=59.650198851930696
+12:59:42.388 [main] INFO  EntityCreator:83  - 8 Points are created
+12:59:42.388 [main] INFO  EntityCreator:90  - Tetragon is created
+12:59:42.388 [main] INFO  EntityCreator:90  - Tetragon is created
+12:59:42.388 [main] INFO  TetragonAction:49  - Area of tetragon=78.0
+12:59:42.388 [main] INFO  TetragonAction:49  - Area of tetragon=78.0
+12:59:42.388 [main] INFO  TetragonAction:49  - Area of tetragon=4.0
+12:59:42.388 [main] INFO  TetragonAction:49  - Area of tetragon=4.0
+12:59:42.403 [main] INFO  EntityCreator:83  - 8 Points are created
+12:59:42.403 [main] INFO  EntityCreator:90  - Tetragon is created
+12:59:42.403 [main] INFO  EntityCreator:90  - Tetragon is created
+12:59:42.403 [main] INFO  TetragonAction:68  - Perimeter of tetragon=8.47213595499958
+12:59:42.403 [main] INFO  TetragonAction:68  - Perimeter of tetragon=37.31875803918298
+12:59:42.403 [main] INFO  EntityCreator:83  - 8 Points are created
+12:59:42.403 [main] INFO  EntityCreator:90  - Tetragon is created
+12:59:42.403 [main] INFO  EntityCreator:90  - Tetragon is created
+12:59:42.403 [main] INFO  TetragonAction:68  - Perimeter of tetragon=37.31875803918298
+12:59:42.419 [main] INFO  TetragonAction:68  - Perimeter of tetragon=37.31875803918298
+12:59:42.419 [main] INFO  TetragonAction:68  - Perimeter of tetragon=8.47213595499958
+12:59:42.419 [main] INFO  TetragonAction:68  - Perimeter of tetragon=8.47213595499958
+12:59:42.419 [main] INFO  EntityCreator:83  - 8 Points are created
+12:59:42.419 [main] INFO  EntityCreator:90  - Tetragon is created
+12:59:42.419 [main] INFO  EntityCreator:90  - Tetragon is created
+12:59:42.419 [main] INFO  TetragonAction:169  - Selected tetragon is not a trapeze
+12:59:42.419 [main] INFO  TetragonAction:165  - Selected tetragon is a trapeze
+13:00:40.673 [main] INFO  EntityCreator:83  - 4 Points are created
+13:00:40.673 [main] INFO  EntityCreator:90  - Tetragon is created
+13:00:40.673 [main] INFO  TetragonAction:118  - Selected tetragon is a rhomb
+13:00:40.673 [main] INFO  TetragonAction:141  - Selected tetragon is a square
+13:01:53.126 [main] INFO  EntityCreator:83  - 4 Points are created
+13:01:53.141 [main] INFO  EntityCreator:90  - Tetragon is created
+13:01:53.141 [main] INFO  TetragonAction:118  - Selected tetragon is a rhomb
+13:04:04.336 [main] INFO  EntityCreator:83  - 4 Points are created
+13:04:04.336 [main] INFO  EntityCreator:90  - Tetragon is created
+13:04:04.336 [main] INFO  TetragonAction:122  - Selected tetragon is not a rhomb
+13:04:26.398 [main] FATAL TetragonActionTest:91  - No file found: rombf.txt
+13:04:40.920 [main] INFO  EntityCreator:83  - 4 Points are created
+13:04:40.936 [main] INFO  EntityCreator:90  - Tetragon is created
+13:04:40.936 [main] INFO  TetragonAction:118  - Selected tetragon is a rhomb
+13:05:14.879 [main] INFO  EntityCreator:83  - 4 Points are created
+13:05:14.894 [main] INFO  EntityCreator:90  - Tetragon is created
+13:05:14.894 [main] INFO  TetragonAction:49  - Area of tetragon=4.0
+13:05:14.894 [main] INFO  EntityCreator:83  - 4 Points are created
+13:05:14.894 [main] INFO  EntityCreator:90  - Tetragon is created
+13:05:14.894 [main] INFO  TetragonAction:92  - Selected tetragon is not convex
+13:05:14.910 [main] INFO  EntityCreator:83  - 4 Points are created
+13:05:14.910 [main] INFO  EntityCreator:90  - Tetragon is created
+13:05:14.910 [main] INFO  TetragonAction:30  - Its not a tetragon
+13:05:14.910 [main] INFO  EntityCreator:83  - 4 Points are created
+13:05:14.910 [main] INFO  EntityCreator:90  - Tetragon is created
+13:05:14.910 [main] INFO  TetragonAction:68  - Perimeter of tetragon=8.47213595499958
+13:05:14.910 [main] INFO  EntityCreator:83  - 4 Points are created
+13:05:14.910 [main] INFO  EntityCreator:90  - Tetragon is created
+13:05:14.910 [main] INFO  TetragonAction:118  - Selected tetragon is a rhomb
+13:05:14.910 [main] INFO  EntityCreator:83  - 4 Points are created
+13:05:14.910 [main] INFO  EntityCreator:90  - Tetragon is created
+13:05:14.910 [main] INFO  TetragonAction:118  - Selected tetragon is a rhomb
+13:05:14.910 [main] INFO  TetragonAction:141  - Selected tetragon is a square
+13:05:14.926 [main] INFO  EntityCreator:83  - 4 Points are created
+13:05:14.926 [main] INFO  EntityCreator:90  - Tetragon is created
+13:05:14.926 [main] INFO  TetragonAction:165  - Selected tetragon is a trapeze
+13:05:27.352 [main] FATAL TetragonCreationTest:82  - File is empty: empty.txt
+13:05:27.368 [main] FATAL TetragonCreationTest:66  - Empty file name
+13:05:27.368 [main] FATAL TetragonCreationTest:50  - No file found: abc
+13:05:27.383 [main] ERROR TetragonCreationTest:101  - Not enought coordinates to create a tetragon
+13:05:27.383 [main] INFO  EntityCreator:83  - 8 Points are created
+13:05:35.599 [main] INFO  EntityCreator:83  - 8 Points are created
+13:05:35.599 [main] INFO  EntityCreator:90  - Tetragon is created
+13:05:35.615 [main] INFO  TetragonAction:49  - Area of tetragon=78.0
+13:05:35.615 [main] INFO  TetragonAction:68  - Perimeter of tetragon=37.31875803918298
+13:05:35.615 [main] INFO  TetragonAction:49  - Area of tetragon=146.0
+13:05:35.615 [main] INFO  TetragonAction:68  - Perimeter of tetragon=59.650198851930696
+13:05:41.837 [main] INFO  EntityCreator:83  - 8 Points are created
+13:05:41.852 [main] INFO  EntityCreator:90  - Tetragon is created
+13:05:41.852 [main] INFO  EntityCreator:90  - Tetragon is created
+13:05:41.852 [main] INFO  TetragonAction:49  - Area of tetragon=78.0
+13:05:41.852 [main] INFO  TetragonAction:49  - Area of tetragon=78.0
+13:05:41.852 [main] INFO  TetragonAction:49  - Area of tetragon=4.0
+13:05:41.852 [main] INFO  TetragonAction:49  - Area of tetragon=4.0
+13:05:41.852 [main] INFO  EntityCreator:83  - 8 Points are created
+13:05:41.852 [main] INFO  EntityCreator:90  - Tetragon is created
+13:05:41.852 [main] INFO  EntityCreator:90  - Tetragon is created
+13:05:41.852 [main] INFO  TetragonAction:68  - Perimeter of tetragon=8.47213595499958
+13:05:41.852 [main] INFO  TetragonAction:68  - Perimeter of tetragon=37.31875803918298
+13:05:41.868 [main] INFO  EntityCreator:83  - 8 Points are created
+13:05:41.868 [main] INFO  EntityCreator:90  - Tetragon is created
+13:05:41.868 [main] INFO  EntityCreator:90  - Tetragon is created
+13:05:41.868 [main] INFO  TetragonAction:68  - Perimeter of tetragon=37.31875803918298
+13:05:41.868 [main] INFO  TetragonAction:68  - Perimeter of tetragon=37.31875803918298
+13:05:41.868 [main] INFO  TetragonAction:68  - Perimeter of tetragon=8.47213595499958
+13:05:41.868 [main] INFO  TetragonAction:68  - Perimeter of tetragon=8.47213595499958
+13:05:41.868 [main] INFO  EntityCreator:83  - 8 Points are created
+13:05:41.868 [main] INFO  EntityCreator:90  - Tetragon is created
+13:05:41.883 [main] INFO  EntityCreator:90  - Tetragon is created
+13:05:41.883 [main] INFO  TetragonAction:169  - Selected tetragon is not a trapeze
+13:05:41.883 [main] INFO  TetragonAction:165  - Selected tetragon is a trapeze
+13:09:51.528 [main] INFO  EntityCreator:83  - 8 Points are created
+13:09:51.528 [main] INFO  EntityCreator:90  - Tetragon is created
+13:09:51.528 [main] INFO  TetragonAction:49  - Area of tetragon=78.0
+13:09:51.528 [main] INFO  TetragonAction:68  - Perimeter of tetragon=37.31875803918298
+13:09:51.544 [main] INFO  TetragonAction:49  - Area of tetragon=54.0
+13:09:51.544 [main] INFO  TetragonAction:68  - Perimeter of tetragon=61.513955447835
+13:11:05.592 [main] INFO  EntityCreator:83  - 8 Points are created
+13:11:05.592 [main] INFO  EntityCreator:90  - Tetragon is created
+13:11:05.592 [main] INFO  TetragonAction:49  - Area of tetragon=78.0
+13:11:05.592 [main] INFO  TetragonAction:68  - Perimeter of tetragon=37.31875803918298
+13:11:05.592 [main] INFO  TetragonAction:49  - Area of tetragon=146.0
+13:11:05.592 [main] INFO  TetragonAction:68  - Perimeter of tetragon=59.650198851930696
+13:12:11.190 [main] INFO  EntityCreator:83  - 8 Points are created
+13:12:11.190 [main] INFO  EntityCreator:90  - Tetragon is created
+13:12:11.206 [main] INFO  TetragonAction:49  - Area of tetragon=78.0
+13:12:11.206 [main] INFO  TetragonAction:68  - Perimeter of tetragon=37.31875803918298
+13:12:11.206 [main] INFO  TetragonAction:49  - Area of tetragon=54.0
+13:12:11.206 [main] INFO  TetragonAction:68  - Perimeter of tetragon=61.513955447835
+13:12:11.206 [main] INFO  EntityCreator:83  - 8 Points are created
+13:12:11.206 [main] INFO  EntityCreator:90  - Tetragon is created
+13:12:11.206 [main] INFO  TetragonAction:49  - Area of tetragon=78.0
+13:12:11.206 [main] INFO  TetragonAction:68  - Perimeter of tetragon=37.31875803918298
+13:12:11.206 [main] INFO  TetragonAction:49  - Area of tetragon=146.0
+13:12:11.206 [main] INFO  TetragonAction:68  - Perimeter of tetragon=59.650198851930696
+10:02:16.475 [main] INFO  EntityCreator:84  - 4 Points are created
+10:02:16.499 [main] INFO  EntityCreator:91  - Tetragon is created
+10:02:16.501 [main] INFO  TetragonAction:49  - Area of tetragon=4.0
+10:02:16.521 [main] INFO  EntityCreator:84  - 4 Points are created
+10:02:16.522 [main] INFO  EntityCreator:91  - Tetragon is created
+10:02:16.523 [main] INFO  TetragonAction:92  - Selected tetragon is not convex
+10:02:16.539 [main] INFO  EntityCreator:84  - 4 Points are created
+10:02:16.540 [main] INFO  EntityCreator:91  - Tetragon is created
+10:02:16.541 [main] INFO  TetragonAction:30  - Its not a tetragon
+10:02:16.545 [main] INFO  EntityCreator:84  - 4 Points are created
+10:02:16.546 [main] INFO  EntityCreator:91  - Tetragon is created
+10:02:16.548 [main] INFO  TetragonAction:68  - Perimeter of tetragon=8.47213595499958
+10:02:16.568 [main] INFO  EntityCreator:84  - 4 Points are created
+10:02:16.569 [main] INFO  EntityCreator:91  - Tetragon is created
+10:02:16.570 [main] INFO  TetragonAction:118  - Selected tetragon is a rhomb
+10:02:16.574 [main] INFO  EntityCreator:84  - 4 Points are created
+10:02:16.575 [main] INFO  EntityCreator:91  - Tetragon is created
+10:02:16.575 [main] INFO  TetragonAction:118  - Selected tetragon is a rhomb
+10:02:16.576 [main] INFO  TetragonAction:141  - Selected tetragon is a square
+10:02:16.583 [main] INFO  EntityCreator:84  - 4 Points are created
+10:02:16.584 [main] INFO  EntityCreator:91  - Tetragon is created
+10:02:16.591 [main] INFO  TetragonAction:165  - Selected tetragon is a trapeze
+10:03:00.073 [main] FATAL TetragonCreationTest:83  - File is empty: empty.txt
+10:03:00.083 [main] FATAL TetragonCreationTest:67  - Empty file name
+10:03:00.085 [main] FATAL TetragonCreationTest:51  - No file found: abc
+10:03:00.105 [main] ERROR TetragonCreationTest:102  - Not enought coordinates to create a tetragon
+10:03:00.124 [main] INFO  EntityCreator:84  - 8 Points are created
+11:02:22.529 [main] FATAL TetragonCreationTest:67  - Empty file name
+11:03:23.878 [main] FATAL TetragonCreationTest:51  - No file found: abc
+11:22:13.669 [main] INFO  EntityCreator:84  - 4 Points are created
+11:22:13.675 [main] INFO  EntityCreator:91  - Tetragon is created
+11:22:13.676 [main] INFO  TetragonAction:49  - Area of tetragon=4.0
+11:22:13.688 [main] INFO  EntityCreator:84  - 4 Points are created
+11:22:13.689 [main] INFO  EntityCreator:91  - Tetragon is created
+11:22:13.689 [main] INFO  TetragonAction:92  - Selected tetragon is not convex
+11:22:13.698 [main] INFO  EntityCreator:84  - 4 Points are created
+11:22:13.699 [main] INFO  EntityCreator:91  - Tetragon is created
+11:22:13.699 [main] INFO  TetragonAction:30  - Its not a tetragon
+11:22:13.701 [main] INFO  EntityCreator:84  - 4 Points are created
+11:22:13.703 [main] INFO  EntityCreator:91  - Tetragon is created
+11:22:13.704 [main] INFO  TetragonAction:68  - Perimeter of tetragon=8.47213595499958
+11:22:13.713 [main] INFO  EntityCreator:84  - 4 Points are created
+11:22:13.714 [main] INFO  EntityCreator:91  - Tetragon is created
+11:22:13.714 [main] INFO  TetragonAction:118  - Selected tetragon is a rhomb
+11:22:13.716 [main] INFO  EntityCreator:84  - 4 Points are created
+11:22:13.716 [main] INFO  EntityCreator:91  - Tetragon is created
+11:22:13.716 [main] INFO  TetragonAction:118  - Selected tetragon is a rhomb
+11:22:13.716 [main] INFO  TetragonAction:141  - Selected tetragon is a square
+11:22:13.719 [main] INFO  EntityCreator:84  - 4 Points are created
+11:22:13.720 [main] INFO  EntityCreator:91  - Tetragon is created
+11:22:13.723 [main] INFO  TetragonAction:165  - Selected tetragon is a trapeze
+11:22:20.670 [main] INFO  EntityCreator:84  - 8 Points are created
+11:22:27.415 [main] INFO  EntityCreator:84  - 8 Points are created
+11:22:27.426 [main] INFO  EntityCreator:91  - Tetragon is created
+11:22:27.429 [main] INFO  TetragonAction:49  - Area of tetragon=78.0
+11:22:27.430 [main] INFO  TetragonAction:68  - Perimeter of tetragon=37.31875803918298
+11:22:27.431 [main] INFO  TetragonAction:49  - Area of tetragon=54.0
+11:22:27.432 [main] INFO  TetragonAction:68  - Perimeter of tetragon=61.513955447835
+11:22:27.441 [main] INFO  EntityCreator:84  - 8 Points are created
+11:22:27.442 [main] INFO  EntityCreator:91  - Tetragon is created
+11:22:27.442 [main] INFO  TetragonAction:49  - Area of tetragon=78.0
+11:22:27.443 [main] INFO  TetragonAction:68  - Perimeter of tetragon=37.31875803918298
+11:22:27.444 [main] INFO  TetragonAction:49  - Area of tetragon=146.0
+11:22:27.447 [main] INFO  TetragonAction:68  - Perimeter of tetragon=59.650198851930696
+11:22:34.682 [main] INFO  EntityCreator:84  - 8 Points are created
+11:22:34.687 [main] INFO  EntityCreator:91  - Tetragon is created
+11:22:34.688 [main] INFO  EntityCreator:91  - Tetragon is created
+11:22:34.691 [main] INFO  TetragonAction:49  - Area of tetragon=78.0
+11:22:34.691 [main] INFO  TetragonAction:49  - Area of tetragon=78.0
+11:22:34.692 [main] INFO  TetragonAction:49  - Area of tetragon=4.0
+11:22:34.692 [main] INFO  TetragonAction:49  - Area of tetragon=4.0
+11:22:34.700 [main] INFO  EntityCreator:84  - 8 Points are created
+11:22:34.701 [main] INFO  EntityCreator:91  - Tetragon is created
+11:22:34.701 [main] INFO  EntityCreator:91  - Tetragon is created
+11:22:34.703 [main] INFO  TetragonAction:68  - Perimeter of tetragon=8.47213595499958
+11:22:34.703 [main] INFO  TetragonAction:68  - Perimeter of tetragon=37.31875803918298
+11:22:34.710 [main] INFO  EntityCreator:84  - 8 Points are created
+11:22:34.711 [main] INFO  EntityCreator:91  - Tetragon is created
+11:22:34.711 [main] INFO  EntityCreator:91  - Tetragon is created
+11:22:34.713 [main] INFO  TetragonAction:68  - Perimeter of tetragon=37.31875803918298
+11:22:34.715 [main] INFO  TetragonAction:68  - Perimeter of tetragon=37.31875803918298
+11:22:34.716 [main] INFO  TetragonAction:68  - Perimeter of tetragon=8.47213595499958
+11:22:34.717 [main] INFO  TetragonAction:68  - Perimeter of tetragon=8.47213595499958
+11:22:34.726 [main] INFO  EntityCreator:84  - 8 Points are created
+11:22:34.726 [main] INFO  EntityCreator:91  - Tetragon is created
+11:22:34.730 [main] INFO  EntityCreator:91  - Tetragon is created
+11:22:34.732 [main] INFO  TetragonAction:169  - Selected tetragon is not a trapeze
+11:22:34.733 [main] INFO  TetragonAction:165  - Selected tetragon is a trapeze
+17:32:25.629 [main] INFO  EntityCreator:84  - 8 Points are created
+17:32:25.629 [main] INFO  EntityCreator:91  - Tetragon is created
+17:32:25.629 [main] INFO  EntityCreator:91  - Tetragon is created
+17:32:25.645 [main] INFO  TetragonAction:49  - Area of tetragon=78.0
+17:32:25.645 [main] INFO  TetragonAction:49  - Area of tetragon=78.0
+17:32:25.645 [main] INFO  TetragonAction:49  - Area of tetragon=4.0
+17:32:25.645 [main] INFO  TetragonAction:49  - Area of tetragon=4.0
+17:32:25.645 [main] INFO  EntityCreator:84  - 8 Points are created
+17:32:25.645 [main] INFO  EntityCreator:91  - Tetragon is created
+17:32:25.645 [main] INFO  EntityCreator:91  - Tetragon is created
+17:32:25.645 [main] INFO  TetragonAction:68  - Perimeter of tetragon=8.47213595499958
+17:32:25.645 [main] INFO  TetragonAction:68  - Perimeter of tetragon=37.31875803918298
+17:32:25.645 [main] INFO  EntityCreator:84  - 8 Points are created
+17:32:25.645 [main] INFO  EntityCreator:91  - Tetragon is created
+17:32:25.645 [main] INFO  EntityCreator:91  - Tetragon is created
+17:32:25.645 [main] INFO  TetragonAction:68  - Perimeter of tetragon=37.31875803918298
+17:32:25.645 [main] INFO  TetragonAction:68  - Perimeter of tetragon=37.31875803918298
+17:32:25.645 [main] INFO  TetragonAction:68  - Perimeter of tetragon=8.47213595499958
+17:32:25.645 [main] INFO  TetragonAction:68  - Perimeter of tetragon=8.47213595499958
+17:32:25.645 [main] INFO  EntityCreator:84  - 8 Points are created
+17:32:25.645 [main] INFO  EntityCreator:91  - Tetragon is created
+17:32:25.645 [main] INFO  EntityCreator:91  - Tetragon is created
+17:32:25.645 [main] INFO  TetragonAction:169  - Selected tetragon is not a trapeze
+17:32:25.645 [main] INFO  TetragonAction:165  - Selected tetragon is a trapeze
+17:33:08.706 [main] INFO  EntityCreator:84  - 8 Points are created
+17:33:08.706 [main] INFO  EntityCreator:91  - Tetragon is created
+17:33:08.706 [main] INFO  TetragonAction:49  - Area of tetragon=78.0
+17:33:08.706 [main] INFO  TetragonAction:68  - Perimeter of tetragon=37.31875803918298
+17:33:08.706 [main] INFO  TetragonAction:49  - Area of tetragon=54.0
+17:33:08.706 [main] INFO  TetragonAction:68  - Perimeter of tetragon=61.513955447835
+17:33:08.721 [main] INFO  EntityCreator:84  - 8 Points are created
+17:33:08.721 [main] INFO  EntityCreator:91  - Tetragon is created
+17:33:08.721 [main] INFO  TetragonAction:49  - Area of tetragon=78.0
+17:33:08.721 [main] INFO  TetragonAction:68  - Perimeter of tetragon=37.31875803918298
+17:33:08.721 [main] INFO  TetragonAction:49  - Area of tetragon=146.0
+17:33:08.721 [main] INFO  TetragonAction:68  - Perimeter of tetragon=59.650198851930696
+09:31:05.573 [main] INFO  EntityCreator:84  - 8 Points are created
+09:31:05.589 [main] INFO  EntityCreator:91  - Tetragon is created
+09:31:05.589 [main] INFO  EntityCreator:91  - Tetragon is created
+09:31:05.589 [main] INFO  TetragonAction:49  - Area of tetragon=78.0
+09:31:05.589 [main] INFO  TetragonAction:49  - Area of tetragon=78.0
+09:31:05.593 [main] INFO  TetragonAction:49  - Area of tetragon=4.0
+09:31:05.593 [main] INFO  TetragonAction:49  - Area of tetragon=4.0
+15:56:54.491 [main] INFO  EntityCreator:84  - 4 Points are created
+15:56:54.507 [main] INFO  EntityCreator:91  - Tetragon is created
+15:56:54.507 [main] INFO  TetragonAction:49  - Area of tetragon=4.0
+15:56:54.523 [main] INFO  EntityCreator:84  - 4 Points are created
+15:56:54.523 [main] INFO  EntityCreator:91  - Tetragon is created
+15:56:54.523 [main] INFO  TetragonAction:92  - Selected tetragon is not convex
+15:56:54.523 [main] INFO  EntityCreator:84  - 4 Points are created
+15:56:54.523 [main] INFO  EntityCreator:91  - Tetragon is created
+15:56:54.523 [main] INFO  TetragonAction:30  - Its not a tetragon
+15:56:54.523 [main] INFO  EntityCreator:84  - 4 Points are created
+15:56:54.523 [main] INFO  EntityCreator:91  - Tetragon is created
+15:56:54.523 [main] INFO  TetragonAction:68  - Perimeter of tetragon=8.47213595499958
+15:56:54.538 [main] INFO  EntityCreator:84  - 4 Points are created
+15:56:54.538 [main] INFO  EntityCreator:91  - Tetragon is created
+15:56:54.538 [main] INFO  TetragonAction:118  - Selected tetragon is a rhomb
+15:56:54.538 [main] INFO  EntityCreator:84  - 4 Points are created
+15:56:54.538 [main] INFO  EntityCreator:91  - Tetragon is created
+15:56:54.538 [main] INFO  TetragonAction:118  - Selected tetragon is a rhomb
+15:56:54.538 [main] INFO  TetragonAction:141  - Selected tetragon is a square
+15:56:54.538 [main] INFO  EntityCreator:84  - 4 Points are created
+15:56:54.538 [main] INFO  EntityCreator:91  - Tetragon is created
+15:56:54.538 [main] INFO  TetragonAction:165  - Selected tetragon is a trapeze

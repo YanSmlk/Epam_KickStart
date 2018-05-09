@@ -1,0 +1,88 @@
+
+15:17:11.043 [main] INFO  EntityCreator:85  - 4 Points are created
+15:17:11.048 [main] INFO  EntityCreator:92  - Tetragon is created
+15:17:11.049 [main] INFO  TetragonAction:49  - Area of tetragon=4.0
+15:17:11.053 [main] FATAL TetragonFunctionTest:93  - File is empty
+15:17:11.054 [main] FATAL TetragonFunctionTest:77  - Empty file name
+15:17:11.056 [main] FATAL TetragonFunctionTest:61  - No file found: abc
+15:17:11.059 [main] INFO  EntityCreator:85  - 4 Points are created
+15:17:11.059 [main] INFO  EntityCreator:92  - Tetragon is created
+15:17:11.060 [main] INFO  TetragonAction:92  - Selected tetragon is not convex
+15:17:11.062 [main] INFO  EntityCreator:85  - 4 Points are created
+15:17:11.062 [main] INFO  EntityCreator:92  - Tetragon is created
+15:17:11.063 [main] INFO  TetragonAction:30  - Its not a tetragon
+15:17:11.065 [main] INFO  EntityCreator:85  - 4 Points are created
+15:17:11.066 [main] INFO  EntityCreator:92  - Tetragon is created
+15:17:11.067 [main] INFO  TetragonAction:68  - Perimeter of tetragon=8.47213595499958
+15:17:11.071 [main] INFO  EntityCreator:85  - 4 Points are created
+15:17:11.076 [main] INFO  EntityCreator:85  - 4 Points are created
+15:17:11.076 [main] INFO  EntityCreator:92  - Tetragon is created
+15:17:11.077 [main] INFO  TetragonAction:118  - Selected tetragon is a rhomb
+15:17:11.077 [main] INFO  TetragonAction:141  - Selected tetragon is a square
+15:17:11.080 [main] INFO  EntityCreator:85  - 4 Points are created
+15:17:11.080 [main] INFO  EntityCreator:92  - Tetragon is created
+15:17:11.081 [main] INFO  TetragonAction:165  - Selected tetragon is a trapeze
+15:17:23.717 [main] INFO  EntityCreator:85  - 4 Points are created
+15:17:23.720 [main] INFO  EntityCreator:92  - Tetragon is created
+15:17:23.721 [main] INFO  TetragonAction:49  - Area of tetragon=4.0
+15:17:23.724 [main] FATAL TetragonFunctionTest:93  - File is empty
+15:17:23.725 [main] FATAL TetragonFunctionTest:77  - Empty file name
+15:17:23.726 [main] FATAL TetragonFunctionTest:61  - No file found: abc
+15:17:23.729 [main] INFO  EntityCreator:85  - 4 Points are created
+15:17:23.730 [main] INFO  EntityCreator:92  - Tetragon is created
+15:17:23.731 [main] INFO  TetragonAction:92  - Selected tetragon is not convex
+15:17:23.734 [main] INFO  EntityCreator:85  - 4 Points are created
+15:17:23.734 [main] INFO  EntityCreator:92  - Tetragon is created
+15:17:23.735 [main] INFO  TetragonAction:30  - Its not a tetragon
+15:17:23.738 [main] INFO  EntityCreator:85  - 4 Points are created
+15:17:23.739 [main] INFO  EntityCreator:92  - Tetragon is created
+15:17:23.749 [main] INFO  TetragonAction:68  - Perimeter of tetragon=8.47213595499958
+15:17:23.753 [main] INFO  EntityCreator:85  - 4 Points are created
+15:17:23.764 [main] INFO  EntityCreator:85  - 4 Points are created
+15:17:23.765 [main] INFO  EntityCreator:92  - Tetragon is created
+15:17:23.765 [main] INFO  TetragonAction:118  - Selected tetragon is a rhomb
+15:17:23.766 [main] INFO  TetragonAction:141  - Selected tetragon is a square
+15:17:23.769 [main] INFO  EntityCreator:85  - 4 Points are created
+15:17:23.770 [main] INFO  EntityCreator:92  - Tetragon is created
+15:17:23.771 [main] INFO  TetragonAction:165  - Selected tetragon is a trapeze
+15:17:27.909 [main] INFO  EntityCreator:85  - 4 Points are created
+15:17:27.913 [main] INFO  EntityCreator:92  - Tetragon is created
+15:17:27.914 [main] INFO  TetragonAction:49  - Area of tetragon=4.0
+15:17:27.918 [main] FATAL TetragonFunctionTest:93  - File is empty
+15:17:27.919 [main] FATAL TetragonFunctionTest:77  - Empty file name
+15:17:27.920 [main] FATAL TetragonFunctionTest:61  - No file found: abc
+15:17:27.922 [main] INFO  EntityCreator:85  - 4 Points are created
+15:17:27.923 [main] INFO  EntityCreator:92  - Tetragon is created
+15:17:27.923 [main] INFO  TetragonAction:92  - Selected tetragon is not convex
+15:17:27.925 [main] INFO  EntityCreator:85  - 4 Points are created
+15:17:27.927 [main] INFO  EntityCreator:92  - Tetragon is created
+15:17:27.927 [main] INFO  TetragonAction:30  - Its not a tetragon
+15:17:27.930 [main] INFO  EntityCreator:85  - 4 Points are created
+15:17:27.930 [main] INFO  EntityCreator:92  - Tetragon is created
+15:17:27.931 [main] INFO  TetragonAction:68  - Perimeter of tetragon=8.47213595499958
+15:17:27.933 [main] INFO  EntityCreator:85  - 4 Points are created
+15:17:27.939 [main] INFO  EntityCreator:85  - 4 Points are created
+15:17:27.940 [main] INFO  EntityCreator:92  - Tetragon is created
+15:17:27.940 [main] INFO  TetragonAction:118  - Selected tetragon is a rhomb
+15:17:27.940 [main] INFO  TetragonAction:141  - Selected tetragon is a square
+15:17:27.941 [main] INFO  EntityCreator:85  - 4 Points are created
+15:17:27.941 [main] INFO  EntityCreator:92  - Tetragon is created
+15:17:27.942 [main] INFO  TetragonAction:165  - Selected tetragon is a trapeze
+15:17:31.918 [main] INFO  EntityCreator:85  - 4 Points are created
+15:17:31.923 [main] INFO  EntityCreator:92  - Tetragon is created
+15:17:31.924 [main] INFO  TetragonAction:49  - Area of tetragon=4.0
+15:17:31.928 [main] FATAL TetragonFunctionTest:93  - File is empty
+15:17:31.929 [main] FATAL TetragonFunctionTest:77  - Empty file name
+15:17:31.933 [main] FATAL TetragonFunctionTest:61  - No file found: abc
+15:17:31.935 [main] INFO  EntityCreator:85  - 4 Points are created
+15:17:31.936 [main] INFO  EntityCreator:92  - Tetragon is created
+15:17:31.936 [main] INFO  TetragonAction:92  - Selected tetragon is not convex
+15:17:31.938 [main] INFO  EntityCreator:85  - 4 Points are created
+15:17:31.939 [main] INFO  EntityCreator:92  - Tetragon is created
+15:17:31.939 [main] INFO  TetragonAction:30  - Its not a tetragon
+15:17:31.941 [main] INFO  EntityCreator:85  - 4 Points are created
+15:17:31.942 [main] INFO  EntityCreator:92  - Tetragon is created
+15:17:31.942 [main] INFO  TetragonAction:68  - Perimeter of tetragon=8.47213595499958
+15:17:31.944 [main] INFO  EntityCreator:85  - 4 Points are created
+15:17:31.949 [main] INFO  EntityCreator:85  - 4 Points are created
+15:17:31.950 [main] INFO  EntityCreator:92  - Tetragon is created
